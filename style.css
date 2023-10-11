@@ -1,0 +1,7 @@
+/*img გავუკეთე ფონად body ელემენტს*/
+body {
+    background-image: url(galery/image\ 78.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
